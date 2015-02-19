@@ -1,4 +1,6 @@
-This is your new Play application
-=====================================
+SBT + play
 
-This file will be packaged with your application, when using `play dist`.
+start the application : sbt then compile, run, ~run, etc.
+
+change sbt version in project/build.properties
+change play version in project/plugins.sbt
